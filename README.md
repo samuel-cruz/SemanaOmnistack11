@@ -45,4 +45,4 @@ Este projeto está sob a licença MIT. Consulte o [LICENSE] (LICENSE.md) para ob
 
 ---
 
-Feito com ♥ por Samuel Cruz :wave: [Get in touch!](https://www.linkedin.com/in/samuel-da-cruz-349a7341//)
+Feito com ♥ por Samuel Cruz :wave: [Fale comigo!](https://samuel-cruz.github.io/)
