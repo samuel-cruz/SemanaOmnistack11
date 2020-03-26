@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="BeTheHero" title="#BeTheHero" src="https://rocketseat.com.br/static/images/og/week-11.png" width="380px" />
+    <img alt="BeTheHero" title="#BeTheHero" src=".github/week.png" width="380px" />
 </h1>
 
 <h4 align="center"> 
@@ -14,7 +14,7 @@
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/) 
-- [React](https://reactjs.org) em desenvolvimento:construction:
+- [React](https://reactjs.org/)
 - [React Native](https://facebook.github.io/react-native/) em desenvolvimento:construction:
 - [Expo](https://expo.io/) em desenvolvimento:construction:
 
@@ -23,12 +23,14 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 O Be The Hero é um projeto que visa conectar pessoas dispostas a ajudar ONGs.
 
 <h1 align="center">
-    <img alt="Login-Page" title="Login-Page" src=".github/login-page.png" width="450px" />
+    <img alt="Login" title="Login" src=".github/login.png" width="450px" />
 </h1>
 
 ## 🔖 Layout
 
-:construction: Em desenvolvimento... :construction:
+<h1 align="center">
+    <img alt="Home" title="Home" src=".github/home-page.png" width="450px" />
+</h1>
 
 ## 🤔 Como contribuir
 
