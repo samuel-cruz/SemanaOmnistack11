@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	:construction: 🚀 Semana OmniStack 11.0 em desenvolvimento.. :construction:
+	:construction: 🚀 Semana OmniStack 11.0
 </h4>
 
 <br>
