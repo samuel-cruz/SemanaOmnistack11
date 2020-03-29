@@ -1,2 +1,7 @@
 node_modules
+package-lock.json
+
+backend/src/database/db.sqlite
+backend/src/database/test.sqlite
+
 anotacoes
